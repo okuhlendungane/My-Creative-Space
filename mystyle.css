@@ -2,7 +2,9 @@ body {
   background-color:lightblue;
 }
 body{  
-  color: blue;
+  color:blue;
 }
-h1{ style=text-align:center; 
+h1{ 
+    text-align: center;
+    text-transform: uppercase;
 }
